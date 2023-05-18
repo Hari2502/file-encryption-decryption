@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for the file encryption/decryption tool with a graphical user interface (GUI) using Tkinter:
-
-markdown
-
 # File Encryption/Decryption Tool
 
 This is a Python program with a graphical user interface (GUI) that allows users to encrypt and decrypt files using symmetric encryption (AES) and a provided encryption key. The tool provides a simple and intuitive interface to secure files and protect sensitive data.
